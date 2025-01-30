@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CONFIG>
   <LazReport>
-    <Version Value="31"/>
+    <Version Value="28"/>
     <Title Value="Editor de Relatórios"/>
     <Subject Value=""/>
     <KeyWords Value=""/>
     <Comments Value=""/>
     <ReportCreateDate Value="2015-03-28 12:45:40"/>
-    <ReportLastChange Value="2018-01-23 10:07:24"/>
+    <ReportLastChange Value="2015-12-30 21:59:52"/>
     <ReportVersionBuild Value=""/>
     <ReportVersionMajor Value=""/>
     <ReportVersionMinor Value=""/>
@@ -54,8 +54,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -82,8 +80,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -110,8 +106,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -138,8 +132,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -166,8 +158,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -187,15 +177,13 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="856"/>
+            <Top Value="776"/>
             <Width Value="752"/>
-            <Height Value="116"/>
+            <Height Value="196"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -222,8 +210,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -250,8 +236,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -278,8 +262,6 @@
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -317,14 +299,10 @@
             <FormatStr Value=""/>
             <Memo Value="Ordem de Serviço&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -373,14 +351,10 @@
             <FormatStr Value="0000"/>
             <Memo Value="[Query.&quot;NOTA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -429,14 +403,10 @@
             <FormatStr Value=""/>
             <Memo Value="[Query.&quot;NOME&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -485,14 +455,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;ENDERECO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -541,14 +507,10 @@
             <FormatStr Value=""/>
             <Memo Value="Refer.&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -597,14 +559,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;REFERENCIA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -653,14 +611,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;PRODUTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -709,14 +663,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;QUANTIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -765,14 +715,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;UNITARIO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -819,16 +765,12 @@
           <Data>
             <Format Value="16974380"/>
             <FormatStr Value=""/>
-            <Memo Value="[QTabMov1.&quot;ValorTotal&quot;]&#xD;&#xA;"/>
+            <Memo Value="[QTabMov1.&quot;TOTAL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -877,14 +819,10 @@
             <FormatStr Value=""/>
             <Memo Value="Produtos&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -933,14 +871,10 @@
             <FormatStr Value=""/>
             <Memo Value="Qtd.&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -989,14 +923,10 @@
             <FormatStr Value=""/>
             <Memo Value="Unitário&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1045,14 +975,10 @@
             <FormatStr Value=""/>
             <Memo Value="Total&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1101,14 +1027,10 @@
             <FormatStr Value=""/>
             <Memo Value=" [Query.&quot;APAGAR&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1157,14 +1079,10 @@
             <FormatStr Value=""/>
             <Memo Value="[SUM([QTabMov1.&quot;TOTALDESCONTO&quot;])]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1213,14 +1131,10 @@
             <FormatStr Value=""/>
             <Memo Value="[SUM([QTabMov1.&quot;TOTAL&quot;])]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1269,14 +1183,10 @@
             <FormatStr Value=""/>
             <Memo Value="Cond. Pagto: [QPagamento.&quot;NOME&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1325,14 +1235,10 @@
             <FormatStr Value=""/>
             <Memo Value="[Query.&quot;EMISSAO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1381,14 +1287,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;CIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1437,14 +1339,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;DOCUMENTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1493,14 +1391,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;TEL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1549,14 +1443,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;CONTATO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1605,14 +1495,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;BAIRRO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1661,14 +1547,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;CEP&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1717,14 +1599,10 @@
             <FormatStr Value=""/>
             <Memo Value="Emissão:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1773,14 +1651,10 @@
             <FormatStr Value=""/>
             <Memo Value="Tel:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1829,14 +1703,10 @@
             <FormatStr Value=""/>
             <Memo Value="Contato:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1885,14 +1755,10 @@
             <FormatStr Value=""/>
             <Memo Value="Bairro:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1941,14 +1807,10 @@
             <FormatStr Value=""/>
             <Memo Value="Cep:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1997,14 +1859,10 @@
             <FormatStr Value=""/>
             <Memo Value="Email:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2053,14 +1911,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;EMAIL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2109,14 +1963,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;IE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2165,14 +2015,10 @@
             <FormatStr Value=""/>
             <Memo Value="Insc. Est.:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2221,14 +2067,10 @@
             <FormatStr Value=""/>
             <Memo Value="Cnpj:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2277,14 +2119,10 @@
             <FormatStr Value=""/>
             <Memo Value="Ordem de serviço:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2333,14 +2171,10 @@
             <FormatStr Value=""/>
             <Memo Value="Cliente:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2389,14 +2223,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;FANTASIA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2445,14 +2275,10 @@
             <FormatStr Value=""/>
             <Memo Value="Fantasia:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2501,14 +2327,10 @@
             <FormatStr Value=""/>
             <Memo Value="Endereço:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2557,14 +2379,10 @@
             <FormatStr Value=""/>
             <Memo Value="Cidade:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2613,14 +2431,10 @@
             <FormatStr Value=""/>
             <Memo Value="Cond. Pagto:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2669,14 +2483,10 @@
             <FormatStr Value=""/>
             <Memo Value="ENDEREÇO: [QEmpresa.&quot;BAIRRO&quot;]  BAIRRO: [QEmpresa.&quot;ENDERECO&quot;]  CIDADE [QEmpresa.&quot;CIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2725,14 +2535,10 @@
             <FormatStr Value=""/>
             <Memo Value="CNPJ: [QEmpresa.&quot;DOCUMENTO&quot;]  INSC. ESTADUAL [QEmpresa.&quot;IE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2781,14 +2587,10 @@
             <FormatStr Value=""/>
             <Memo Value="CEP: [QEmpresa.&quot;CEP&quot;]  E-MAIL: [QEmpresa.&quot;EMAIL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2837,14 +2639,10 @@
             <FormatStr Value=""/>
             <Memo Value="TEL: [QEmpresa.&quot;TEL1&quot;]  CEL: [QEmpresa.&quot;TEL2&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2893,14 +2691,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QEmpresa.&quot;FANTASIA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2949,14 +2743,10 @@
             <FormatStr Value=""/>
             <Memo Value="Sub total:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3005,14 +2795,10 @@
             <FormatStr Value=""/>
             <Memo Value="Valor de desconto:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3061,14 +2847,10 @@
             <FormatStr Value=""/>
             <Memo Value="Total:&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3117,14 +2899,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;SERVICO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3173,14 +2951,10 @@
             <FormatStr Value=""/>
             <Memo Value="Seriço&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3229,14 +3003,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;SERVICOID&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3285,14 +3055,10 @@
             <FormatStr Value=""/>
             <Memo Value="Código&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3341,14 +3107,10 @@
             <FormatStr Value=""/>
             <Memo Value="Qtd.&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3397,14 +3159,10 @@
             <FormatStr Value=""/>
             <Memo Value="Unitário&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3453,14 +3211,10 @@
             <FormatStr Value=""/>
             <Memo Value="Total&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3509,14 +3263,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;UNITARIO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3565,14 +3315,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;TOTAL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3621,14 +3367,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;QUANTIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3677,14 +3419,10 @@
             <FormatStr Value=""/>
             <Memo Value="%&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3733,14 +3471,10 @@
             <FormatStr Value=""/>
             <Memo Value="%&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3789,14 +3523,10 @@
             <FormatStr Value=""/>
             <Memo Value="ISS&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3845,14 +3575,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;ISS&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3901,14 +3627,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QManutencao.&quot;DESCONTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3957,14 +3679,10 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;DESCONTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3987,119 +3705,7 @@
           <Justify Value="False"/>
           <Cursor Value="0"/>
         </Object75>
-        <Object76>
-          <Name Value="Memo64"/>
-          <ClassName Value="TfrMemoView"/>
-          <Visible Value="True"/>
-          <Typ Value="gtMemo"/>
-          <StreamMode Value="0"/>
-          <Size>
-            <Left Value="8"/>
-            <Top Value="772"/>
-            <Width Value="156"/>
-            <Height Value="18"/>
-          </Size>
-          <Flags Value="3"/>
-          <FillColor Value="clNone"/>
-          <Frames>
-            <FrameColor Value="clBlack"/>
-            <FrameStyle Value="frsSolid"/>
-            <FrameWidth Value="1"/>
-            <FrameBorders Value=""/>
-            <Restrictions Value=""/>
-          </Frames>
-          <Data>
-            <Format Value="556"/>
-            <FormatStr Value=""/>
-            <Memo Value="[EQUIPAMENTO]&#xD;&#xA;"/>
-            <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
-            <OnClick Value=""/>
-            <OnMouseEnter Value=""/>
-            <OnMouseLeave Value=""/>
-            <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
-          </Data>
-          <Tag Value=""/>
-          <FURLInfo Value=""/>
-          <Font>
-            <Name Value="Arial"/>
-            <Size Value="10"/>
-            <Color Value="clBlack"/>
-            <Charset Value="0"/>
-            <Style Value=""/>
-          </Font>
-          <Highlight>
-            <FontStyle Value="2"/>
-            <FontColor Value="clBlack"/>
-            <FillColor Value="clWhite"/>
-            <HighlightStr Value=""/>
-          </Highlight>
-          <Alignment Value="taLeftJustify"/>
-          <Layout Value="tlTop"/>
-          <Angle Value="0"/>
-          <Justify Value="False"/>
-          <Cursor Value="0"/>
-        </Object76>
-        <Object77>
-          <Name Value="Memo68"/>
-          <ClassName Value="TfrMemoView"/>
-          <Visible Value="True"/>
-          <Typ Value="gtMemo"/>
-          <StreamMode Value="0"/>
-          <Size>
-            <Left Value="212"/>
-            <Top Value="772"/>
-            <Width Value="96"/>
-            <Height Value="18"/>
-          </Size>
-          <Flags Value="3"/>
-          <FillColor Value="clNone"/>
-          <Frames>
-            <FrameColor Value="clBlack"/>
-            <FrameStyle Value="frsSolid"/>
-            <FrameWidth Value="1"/>
-            <FrameBorders Value=""/>
-            <Restrictions Value=""/>
-          </Frames>
-          <Data>
-            <Format Value="556"/>
-            <FormatStr Value=""/>
-            <Memo Value="[MARCA]&#xD;&#xA;"/>
-            <Script Value=""/>
-            <GapX Value="0"/>
-            <GapY Value="0"/>
-            <OnClick Value=""/>
-            <OnMouseEnter Value=""/>
-            <OnMouseLeave Value=""/>
-            <DetailReport Value=""/>
-            <ParagraphGap Value="0"/>
-            <LineSpacing Value="2"/>
-          </Data>
-          <Tag Value=""/>
-          <FURLInfo Value=""/>
-          <Font>
-            <Name Value="Arial"/>
-            <Size Value="10"/>
-            <Color Value="clBlack"/>
-            <Charset Value="0"/>
-            <Style Value=""/>
-          </Font>
-          <Highlight>
-            <FontStyle Value="2"/>
-            <FontColor Value="clBlack"/>
-            <FillColor Value="clWhite"/>
-            <HighlightStr Value=""/>
-          </Highlight>
-          <Alignment Value="taLeftJustify"/>
-          <Layout Value="tlTop"/>
-          <Angle Value="0"/>
-          <Justify Value="False"/>
-          <Cursor Value="0"/>
-        </Object77>
-        <ObjectCount Value="77"/>
+        <ObjectCount Value="75"/>
       </Page1>
       <FVal>
         <Count Value="0"/>

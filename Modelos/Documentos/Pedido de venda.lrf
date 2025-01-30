@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CONFIG>
   <LazReport>
-    <Version Value="28"/>
+    <Version Value="31"/>
     <Title Value="Editor de Relatórios"/>
     <Subject Value=""/>
     <KeyWords Value=""/>
     <Comments Value=""/>
     <ReportCreateDate Value="2015-03-28 12:45:40"/>
-    <ReportLastChange Value="2016-03-21 19:53:23"/>
+    <ReportLastChange Value="2025-01-29 10:31:21"/>
     <ReportVersionBuild Value=""/>
     <ReportVersionMajor Value=""/>
     <ReportVersionMinor Value=""/>
@@ -17,7 +17,7 @@
     <Pages>
       <PrintToDefault Value="False"/>
       <DoublePass Value="False"/>
-      <SelectedPrinter Value="Microsoft XPS Document Writer"/>
+      <SelectedPrinter Value="HP E52645 DGCC"/>
       <PageCount Value="1"/>
       <Page1>
         <Name Value="Page1"/>
@@ -47,13 +47,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="224"/>
+            <Top Value="208"/>
             <Width Value="752"/>
-            <Height Value="196"/>
+            <Height Value="168"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -75,11 +77,13 @@
             <Left Value="0"/>
             <Top Value="32"/>
             <Width Value="752"/>
-            <Height Value="32"/>
+            <Height Value="28"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -99,13 +103,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="83"/>
+            <Top Value="67"/>
             <Width Value="752"/>
-            <Height Value="120"/>
+            <Height Value="108"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -125,13 +131,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="452"/>
+            <Top Value="392"/>
             <Width Value="752"/>
-            <Height Value="28"/>
+            <Height Value="24"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -151,13 +159,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="500"/>
+            <Top Value="436"/>
             <Width Value="752"/>
-            <Height Value="68"/>
+            <Height Value="33"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -177,13 +187,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="688"/>
+            <Top Value="1068"/>
             <Width Value="752"/>
-            <Height Value="40"/>
+            <Height Value="20"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -203,13 +215,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="592"/>
+            <Top Value="856"/>
             <Width Value="752"/>
-            <Height Value="68"/>
+            <Height Value="56"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -229,13 +243,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="792"/>
+            <Top Value="804"/>
             <Width Value="752"/>
-            <Height Value="40"/>
+            <Height Value="12"/>
           </Size>
-          <Flags Value="48"/>
+          <Flags Value="49"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -255,13 +271,15 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="0"/>
-            <Top Value="1020"/>
+            <Top Value="932"/>
             <Width Value="752"/>
-            <Height Value="40"/>
+            <Height Value="120"/>
           </Size>
           <Flags Value="48"/>
           <Data>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -283,7 +301,7 @@
             <Left Value="328"/>
             <Top Value="33"/>
             <Width Value="108"/>
-            <Height Value="30"/>
+            <Height Value="26"/>
           </Size>
           <Flags Value="3"/>
           <FillColor Value="clNone"/>
@@ -299,10 +317,14 @@
             <FormatStr Value=""/>
             <Memo Value="PEDIDO&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -332,9 +354,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="102"/>
-            <Top Value="226"/>
-            <Width Value="488"/>
+            <Left Value="90"/>
+            <Top Value="230"/>
+            <Width Value="352"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -351,10 +373,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPedido.&quot;NOME&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -384,8 +410,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="82"/>
-            <Top Value="246"/>
+            <Left Value="66"/>
+            <Top Value="210"/>
             <Width Value="380"/>
             <Height Value="18"/>
           </Size>
@@ -403,10 +429,14 @@
             <FormatStr Value="0000"/>
             <Memo Value="[Query.&quot;NOTA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -436,8 +466,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="82"/>
-            <Top Value="266"/>
+            <Left Value="66"/>
+            <Top Value="250"/>
             <Width Value="380"/>
             <Height Value="18"/>
           </Size>
@@ -455,10 +485,14 @@
             <FormatStr Value=""/>
             <Memo Value="[Query.&quot;NOME&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -488,8 +522,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="93"/>
-            <Top Value="306"/>
+            <Left Value="77"/>
+            <Top Value="290"/>
             <Width Value="364"/>
             <Height Value="18"/>
           </Size>
@@ -507,10 +541,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;ENDERECO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -540,9 +578,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="18"/>
-            <Top Value="455"/>
-            <Width Value="40"/>
+            <Left Value="6"/>
+            <Top Value="395"/>
+            <Width Value="68"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -557,21 +595,25 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="Refer.&#xD;&#xA;"/>
+            <Memo Value="REF.&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="10"/>
-            <Color Value="clBlack"/>
+            <Color Value="clRed"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -592,9 +634,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="18"/>
-            <Top Value="506"/>
-            <Width Value="80"/>
+            <Left Value="6"/>
+            <Top Value="438"/>
+            <Width Value="76"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -611,10 +653,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;REFERENCIA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -644,10 +690,10 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="104"/>
-            <Top Value="502"/>
-            <Width Value="320"/>
-            <Height Value="62"/>
+            <Left Value="88"/>
+            <Top Value="438"/>
+            <Width Value="484"/>
+            <Height Value="30"/>
           </Size>
           <Flags Value="3"/>
           <FillColor Value="clNone"/>
@@ -661,12 +707,16 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="[QTabMov1.&quot;PRODUTO&quot;]  [QTabMov1.&quot;DESCRICAO&quot;]&#xD;&#xA;"/>
+            <Memo Value="[QTabMov1.&quot;PRODUTO&quot;]        &#xD;&#xA;[QTabMov1.&quot;CARACTERISTICA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -696,9 +746,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="506"/>
-            <Width Value="32"/>
+            <Left Value="574"/>
+            <Top Value="438"/>
+            <Width Value="28"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -715,10 +765,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;QUANTIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -748,9 +802,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="570"/>
-            <Top Value="506"/>
-            <Width Value="80"/>
+            <Left Value="610"/>
+            <Top Value="438"/>
+            <Width Value="60"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -767,10 +821,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;UNITARIO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -800,9 +858,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="658"/>
-            <Top Value="506"/>
-            <Width Value="80"/>
+            <Left Value="674"/>
+            <Top Value="438"/>
+            <Width Value="72"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -819,10 +877,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QTabMov1.&quot;TOTAL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -852,9 +914,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="104"/>
-            <Top Value="455"/>
-            <Width Value="56"/>
+            <Left Value="92"/>
+            <Top Value="395"/>
+            <Width Value="84"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -869,21 +931,25 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="Produtos&#xD;&#xA;"/>
+            <Memo Value="PRODUTOS&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="10"/>
-            <Color Value="clBlack"/>
+            <Color Value="clRed"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -905,7 +971,7 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="12"/>
-            <Top Value="477"/>
+            <Top Value="373"/>
             <Width Value="724"/>
             <Height Value="0"/>
           </Size>
@@ -918,6 +984,10 @@
           </Frames>
           <Tag Value=""/>
           <FURLInfo Value=""/>
+          <Data>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
+          </Data>
         </Object22>
         <Object23>
           <Name Value="Line2"/>
@@ -926,8 +996,8 @@
           <Typ Value="gtLine"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="12"/>
-            <Top Value="592"/>
+            <Left Value="16"/>
+            <Top Value="856"/>
             <Width Value="728"/>
             <Height Value="0"/>
           </Size>
@@ -940,6 +1010,10 @@
           </Frames>
           <Tag Value=""/>
           <FURLInfo Value=""/>
+          <Data>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
+          </Data>
         </Object23>
         <Object24>
           <Name Value="Memo13"/>
@@ -948,9 +1022,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="510"/>
-            <Top Value="455"/>
-            <Width Value="48"/>
+            <Left Value="558"/>
+            <Top Value="395"/>
+            <Width Value="52"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -965,21 +1039,25 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="Quant.&#xD;&#xA;"/>
+            <Memo Value="QUANT.&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="10"/>
-            <Color Value="clBlack"/>
+            <Color Value="clRed"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -1000,9 +1078,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="598"/>
-            <Top Value="455"/>
-            <Width Value="52"/>
+            <Left Value="614"/>
+            <Top Value="395"/>
+            <Width Value="68"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1017,21 +1095,25 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="Unitário&#xD;&#xA;"/>
+            <Memo Value="UNITÁRIO&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="10"/>
-            <Color Value="clBlack"/>
+            <Color Value="clRed"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -1052,9 +1134,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="680"/>
-            <Top Value="455"/>
-            <Width Value="48"/>
+            <Left Value="688"/>
+            <Top Value="395"/>
+            <Width Value="60"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1067,23 +1149,27 @@
             <Restrictions Value=""/>
           </Frames>
           <Data>
-            <Format Value="556"/>
+            <Format Value="44"/>
             <FormatStr Value=""/>
-            <Memo Value="Total&#xD;&#xA;"/>
+            <Memo Value="TOTAL&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="10"/>
-            <Color Value="clBlack"/>
+            <Color Value="clRed"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -1104,8 +1190,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="554"/>
-            <Top Value="636"/>
+            <Left Value="562"/>
+            <Top Value="892"/>
             <Width Value="180"/>
             <Height Value="18"/>
           </Size>
@@ -1123,10 +1209,14 @@
             <FormatStr Value=""/>
             <Memo Value=" [Query.&quot;APAGAR&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1156,8 +1246,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="554"/>
-            <Top Value="615"/>
+            <Left Value="562"/>
+            <Top Value="875"/>
             <Width Value="180"/>
             <Height Value="18"/>
           </Size>
@@ -1173,12 +1263,16 @@
           <Data>
             <Format Value="16974380"/>
             <FormatStr Value=""/>
-            <Memo Value="[SUM([QTabMov1.&quot;VALORDESCONTADO&quot;])]&#xD;&#xA;"/>
+            <Memo Value="[SUM([QTabMov1.&quot;VALORDESCONTADO&quot;])]&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1208,8 +1302,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="658"/>
-            <Top Value="396"/>
+            <Left Value="678"/>
+            <Top Value="352"/>
             <Width Value="48"/>
             <Height Value="18"/>
           </Size>
@@ -1227,10 +1321,14 @@
             <FormatStr Value=""/>
             <Memo Value=" [QTabMov1.&quot;DESCONTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1260,8 +1358,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="554"/>
-            <Top Value="594"/>
+            <Left Value="562"/>
+            <Top Value="858"/>
             <Width Value="180"/>
             <Height Value="18"/>
           </Size>
@@ -1279,10 +1377,14 @@
             <FormatStr Value=""/>
             <Memo Value="[SUM([QTabMov1.&quot;TOTAL&quot;])]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1312,9 +1414,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="109"/>
-            <Top Value="397"/>
-            <Width Value="309"/>
+            <Left Value="97"/>
+            <Top Value="353"/>
+            <Width Value="265"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1329,12 +1431,16 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="Cond. Pagto: [QPagamento.&quot;NOME&quot;]&#xD;&#xA;"/>
+            <Memo Value="[Query.&quot;PAGAMENTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1364,8 +1470,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="246"/>
+            <Left Value="510"/>
+            <Top Value="210"/>
             <Width Value="212"/>
             <Height Value="18"/>
           </Size>
@@ -1383,10 +1489,14 @@
             <FormatStr Value=""/>
             <Memo Value="[Query.&quot;EMISSAO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1416,8 +1526,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="74"/>
-            <Top Value="327"/>
+            <Left Value="62"/>
+            <Top Value="311"/>
             <Width Value="384"/>
             <Height Value="18"/>
           </Size>
@@ -1435,10 +1545,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;CIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1468,9 +1582,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="61"/>
-            <Top Value="349"/>
-            <Width Value="308"/>
+            <Left Value="49"/>
+            <Top Value="333"/>
+            <Width Value="228"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1487,10 +1601,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;DOCUMENTO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1520,8 +1638,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="266"/>
+            <Left Value="482"/>
+            <Top Value="230"/>
             <Width Value="213"/>
             <Height Value="18"/>
           </Size>
@@ -1539,10 +1657,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;TEL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1572,8 +1694,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="287"/>
+            <Left Value="510"/>
+            <Top Value="251"/>
             <Width Value="214"/>
             <Height Value="18"/>
           </Size>
@@ -1591,10 +1713,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;CONTATO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1624,8 +1750,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="308"/>
+            <Left Value="510"/>
+            <Top Value="288"/>
             <Width Value="214"/>
             <Height Value="18"/>
           </Size>
@@ -1643,10 +1769,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;BAIRRO&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1676,8 +1806,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="329"/>
+            <Left Value="510"/>
+            <Top Value="309"/>
             <Width Value="215"/>
             <Height Value="18"/>
           </Size>
@@ -1695,10 +1825,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;CEP&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1728,8 +1862,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="464"/>
-            <Top Value="246"/>
+            <Left Value="448"/>
+            <Top Value="210"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -1747,10 +1881,14 @@
             <FormatStr Value=""/>
             <Memo Value="Emissão:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1780,8 +1918,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="464"/>
-            <Top Value="266"/>
+            <Left Value="448"/>
+            <Top Value="230"/>
             <Width Value="32"/>
             <Height Value="18"/>
           </Size>
@@ -1799,10 +1937,14 @@
             <FormatStr Value=""/>
             <Memo Value="Tel:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1832,8 +1974,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="464"/>
-            <Top Value="287"/>
+            <Left Value="448"/>
+            <Top Value="251"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -1851,10 +1993,14 @@
             <FormatStr Value=""/>
             <Memo Value="Contato:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1884,8 +2030,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="464"/>
-            <Top Value="308"/>
+            <Left Value="448"/>
+            <Top Value="288"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -1903,10 +2049,14 @@
             <FormatStr Value=""/>
             <Memo Value="Bairro:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1936,8 +2086,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="464"/>
-            <Top Value="329"/>
+            <Left Value="448"/>
+            <Top Value="309"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -1955,10 +2105,14 @@
             <FormatStr Value=""/>
             <Memo Value="Cep:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -1988,8 +2142,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="369"/>
+            <Left Value="448"/>
+            <Top Value="269"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -2007,10 +2161,14 @@
             <FormatStr Value=""/>
             <Memo Value="Email:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2040,9 +2198,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="78"/>
-            <Top Value="369"/>
-            <Width Value="662"/>
+            <Left Value="510"/>
+            <Top Value="269"/>
+            <Width Value="214"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2059,10 +2217,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;EMAIL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2092,9 +2254,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="526"/>
-            <Top Value="349"/>
-            <Width Value="214"/>
+            <Left Value="514"/>
+            <Top Value="333"/>
+            <Width Value="210"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2111,10 +2273,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;IE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2144,8 +2310,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="452"/>
-            <Top Value="349"/>
+            <Left Value="448"/>
+            <Top Value="333"/>
             <Width Value="64"/>
             <Height Value="18"/>
           </Size>
@@ -2163,10 +2329,14 @@
             <FormatStr Value=""/>
             <Memo Value="Insc. Est.:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2196,8 +2366,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="348"/>
+            <Left Value="4"/>
+            <Top Value="332"/>
             <Width Value="40"/>
             <Height Value="18"/>
           </Size>
@@ -2215,10 +2385,14 @@
             <FormatStr Value=""/>
             <Memo Value="Cnpj:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2248,8 +2422,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="225"/>
+            <Left Value="4"/>
+            <Top Value="229"/>
             <Width Value="84"/>
             <Height Value="18"/>
           </Size>
@@ -2267,10 +2441,14 @@
             <FormatStr Value=""/>
             <Memo Value="Fornecedor:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2300,8 +2478,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="246"/>
+            <Left Value="4"/>
+            <Top Value="210"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -2319,10 +2497,14 @@
             <FormatStr Value=""/>
             <Memo Value="Pedido:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2352,8 +2534,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="266"/>
+            <Left Value="4"/>
+            <Top Value="250"/>
             <Width Value="60"/>
             <Height Value="18"/>
           </Size>
@@ -2371,10 +2553,14 @@
             <FormatStr Value=""/>
             <Memo Value="Cliente:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2404,8 +2590,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="82"/>
-            <Top Value="286"/>
+            <Left Value="66"/>
+            <Top Value="270"/>
             <Width Value="377"/>
             <Height Value="18"/>
           </Size>
@@ -2423,10 +2609,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPessoa.&quot;FANTASIA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2456,8 +2646,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="286"/>
+            <Left Value="4"/>
+            <Top Value="270"/>
             <Width Value="62"/>
             <Height Value="18"/>
           </Size>
@@ -2475,10 +2665,14 @@
             <FormatStr Value=""/>
             <Memo Value="Fantasia:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2508,8 +2702,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="306"/>
+            <Left Value="4"/>
+            <Top Value="290"/>
             <Width Value="72"/>
             <Height Value="18"/>
           </Size>
@@ -2527,10 +2721,14 @@
             <FormatStr Value=""/>
             <Memo Value="Endereço:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2560,8 +2758,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="327"/>
+            <Left Value="4"/>
+            <Top Value="311"/>
             <Width Value="56"/>
             <Height Value="18"/>
           </Size>
@@ -2579,10 +2777,14 @@
             <FormatStr Value=""/>
             <Memo Value="Cidade:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2612,8 +2814,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="396"/>
+            <Left Value="4"/>
+            <Top Value="352"/>
             <Width Value="88"/>
             <Height Value="18"/>
           </Size>
@@ -2631,10 +2833,14 @@
             <FormatStr Value=""/>
             <Memo Value="Cond. Pagto:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2664,8 +2870,8 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="424"/>
-            <Top Value="396"/>
+            <Left Value="448"/>
+            <Top Value="352"/>
             <Width Value="52"/>
             <Height Value="18"/>
           </Size>
@@ -2683,10 +2889,14 @@
             <FormatStr Value=""/>
             <Memo Value="Transp:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2716,9 +2926,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="478"/>
-            <Top Value="396"/>
-            <Width Value="124"/>
+            <Left Value="502"/>
+            <Top Value="352"/>
+            <Width Value="128"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2735,10 +2945,14 @@
             <FormatStr Value=""/>
             <Memo Value="[QPedido.&quot;NOME2&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2768,9 +2982,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="608"/>
-            <Top Value="396"/>
-            <Width Value="44"/>
+            <Left Value="636"/>
+            <Top Value="352"/>
+            <Width Value="40"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2787,10 +3001,14 @@
             <FormatStr Value=""/>
             <Memo Value="Desc:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2820,12 +3038,12 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="118"/>
-            <Top Value="836"/>
-            <Width Value="344"/>
-            <Height Value="18"/>
+            <Left Value="110"/>
+            <Top Value="936"/>
+            <Width Value="636"/>
+            <Height Value="90"/>
           </Size>
-          <Flags Value="3"/>
+          <Flags Value="2"/>
           <FillColor Value="clNone"/>
           <Frames>
             <FrameColor Value="clBlack"/>
@@ -2839,10 +3057,14 @@
             <FormatStr Value=""/>
             <Memo Value="[Query.&quot;OBS&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2872,10 +3094,10 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="16"/>
-            <Top Value="836"/>
-            <Width Value="96"/>
-            <Height Value="18"/>
+            <Left Value="0"/>
+            <Top Value="936"/>
+            <Width Value="108"/>
+            <Height Value="22"/>
           </Size>
           <Flags Value="3"/>
           <FillColor Value="clNone"/>
@@ -2889,19 +3111,23 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="Observação:&#xD;&#xA;"/>
+            <Memo Value="  OBSERVAÇÃO:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="10"/>
-            <Color Value="clBlack"/>
+            <Color Value="clRed"/>
             <Charset Value="0"/>
             <Style Value="fsBold"/>
           </Font>
@@ -2924,9 +3150,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="66"/>
-            <Top Value="134"/>
-            <Width Value="640"/>
+            <Left Value="2"/>
+            <Top Value="114"/>
+            <Width Value="748"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2941,12 +3167,16 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="ENDEREÇO: [QEmpresa.&quot;BAIRRO&quot;]  BAIRRO: [QEmpresa.&quot;ENDERECO&quot;]  CIDADE [QEmpresa.&quot;CIDADE&quot;]&#xD;&#xA;"/>
+            <Memo Value="ENDEREÇO: [QEmpresa.&quot;ENDERECO&quot;]  BAIRRO: [QEmpresa.&quot;BAIRRO&quot;]  CIDADE: [QEmpresa.&quot;CIDADE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -2977,7 +3207,7 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="66"/>
-            <Top Value="114"/>
+            <Top Value="94"/>
             <Width Value="640"/>
             <Height Value="18"/>
           </Size>
@@ -2995,10 +3225,14 @@
             <FormatStr Value=""/>
             <Memo Value="CNPJ: [QEmpresa.&quot;DOCUMENTO&quot;]  INSC. ESTADUAL [QEmpresa.&quot;IE&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3029,7 +3263,7 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="66"/>
-            <Top Value="154"/>
+            <Top Value="134"/>
             <Width Value="640"/>
             <Height Value="18"/>
           </Size>
@@ -3047,10 +3281,14 @@
             <FormatStr Value=""/>
             <Memo Value="CEP: [QEmpresa.&quot;CEP&quot;]  E-MAIL: [QEmpresa.&quot;EMAIL&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3081,7 +3319,7 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="66"/>
-            <Top Value="174"/>
+            <Top Value="154"/>
             <Width Value="640"/>
             <Height Value="18"/>
           </Size>
@@ -3099,10 +3337,14 @@
             <FormatStr Value=""/>
             <Memo Value="TEL: [QEmpresa.&quot;TEL1&quot;]  CEL: [QEmpresa.&quot;TEL2&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3133,7 +3375,7 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="66"/>
-            <Top Value="85"/>
+            <Top Value="69"/>
             <Width Value="641"/>
             <Height Value="22"/>
           </Size>
@@ -3151,17 +3393,21 @@
             <FormatStr Value=""/>
             <Memo Value="[QEmpresa.&quot;FANTASIA&quot;]&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
           <Font>
             <Name Value="Arial"/>
             <Size Value="16"/>
-            <Color Value="clBlack"/>
+            <Color Value="clBlue"/>
             <Charset Value="0"/>
             <Style Value="fsBold"/>
           </Font>
@@ -3184,9 +3430,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="490"/>
-            <Top Value="594"/>
-            <Width Value="60"/>
+            <Left Value="434"/>
+            <Top Value="858"/>
+            <Width Value="128"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -3203,10 +3449,14 @@
             <FormatStr Value=""/>
             <Memo Value="Sub total:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3215,7 +3465,7 @@
             <Size Value="10"/>
             <Color Value="clBlack"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -3237,8 +3487,8 @@
           <StreamMode Value="0"/>
           <Size>
             <Left Value="434"/>
-            <Top Value="615"/>
-            <Width Value="116"/>
+            <Top Value="875"/>
+            <Width Value="128"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -3255,10 +3505,14 @@
             <FormatStr Value=""/>
             <Memo Value="Valor de desconto:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3267,7 +3521,7 @@
             <Size Value="10"/>
             <Color Value="clBlack"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
@@ -3288,9 +3542,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="454"/>
-            <Top Value="636"/>
-            <Width Value="96"/>
+            <Left Value="434"/>
+            <Top Value="892"/>
+            <Width Value="128"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -3307,10 +3561,14 @@
             <FormatStr Value=""/>
             <Memo Value="Total do pedido:&#xD;&#xA;"/>
             <Script Value=""/>
+            <GapX Value="0"/>
+            <GapY Value="0"/>
             <OnClick Value=""/>
             <OnMouseEnter Value=""/>
             <OnMouseLeave Value=""/>
             <DetailReport Value=""/>
+            <ParagraphGap Value="0"/>
+            <LineSpacing Value="2"/>
           </Data>
           <Tag Value=""/>
           <FURLInfo Value=""/>
@@ -3319,7 +3577,7 @@
             <Size Value="10"/>
             <Color Value="clBlack"/>
             <Charset Value="0"/>
-            <Style Value=""/>
+            <Style Value="fsBold"/>
           </Font>
           <Highlight>
             <FontStyle Value="2"/>
