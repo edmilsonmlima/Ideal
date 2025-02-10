@@ -7,7 +7,7 @@
     <KeyWords Value=""/>
     <Comments Value=""/>
     <ReportCreateDate Value="2015-03-28 12:45:40"/>
-    <ReportLastChange Value="2025-02-10 15:39:45"/>
+    <ReportLastChange Value="2025-02-10 16:05:39"/>
     <ReportVersionBuild Value=""/>
     <ReportVersionMajor Value=""/>
     <ReportVersionMinor Value=""/>
@@ -298,9 +298,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="17"/>
             <Top Value="689"/>
-            <Width Value="76"/>
+            <Width Value="70"/>
             <Height Value="13"/>
           </Size>
           <Flags Value="3"/>
@@ -354,9 +354,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="96"/>
+            <Left Value="104"/>
             <Top Value="689"/>
-            <Width Value="424"/>
+            <Width Value="418"/>
             <Height Value="26"/>
           </Size>
           <Flags Value="3"/>
@@ -410,9 +410,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="562"/>
+            <Left Value="570"/>
             <Top Value="689"/>
-            <Width Value="28"/>
+            <Width Value="22"/>
             <Height Value="14"/>
           </Size>
           <Flags Value="3"/>
@@ -466,9 +466,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="598"/>
+            <Left Value="606"/>
             <Top Value="689"/>
-            <Width Value="60"/>
+            <Width Value="54"/>
             <Height Value="14"/>
           </Size>
           <Flags Value="3"/>
@@ -522,9 +522,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="662"/>
+            <Left Value="670"/>
             <Top Value="689"/>
-            <Width Value="72"/>
+            <Width Value="66"/>
             <Height Value="13"/>
           </Size>
           <Flags Value="3"/>
@@ -578,9 +578,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="558"/>
+            <Left Value="566"/>
             <Top Value="855"/>
-            <Width Value="180"/>
+            <Width Value="167"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -634,9 +634,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="558"/>
+            <Left Value="566"/>
             <Top Value="835"/>
-            <Width Value="180"/>
+            <Width Value="167"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -690,9 +690,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="558"/>
+            <Left Value="566"/>
             <Top Value="814"/>
-            <Width Value="180"/>
+            <Width Value="167"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -746,9 +746,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="98"/>
+            <Left Value="106"/>
             <Top Value="884"/>
-            <Width Value="640"/>
+            <Width Value="627"/>
             <Height Value="58"/>
           </Size>
           <Flags Value="2"/>
@@ -802,9 +802,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="8"/>
+            <Left Value="16"/>
             <Top Value="884"/>
-            <Width Value="87"/>
+            <Width Value="74"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -858,9 +858,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="442"/>
+            <Left Value="450"/>
             <Top Value="814"/>
-            <Width Value="108"/>
+            <Width Value="95"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -914,9 +914,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="442"/>
+            <Left Value="450"/>
             <Top Value="835"/>
-            <Width Value="108"/>
+            <Width Value="95"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -970,9 +970,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="442"/>
+            <Left Value="450"/>
             <Top Value="855"/>
-            <Width Value="108"/>
+            <Width Value="95"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1026,7 +1026,7 @@
           <Typ Value="gtLine"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="296"/>
+            <Left Value="304"/>
             <Top Value="644"/>
             <Width Value="0"/>
             <Height Value="0"/>
@@ -1052,9 +1052,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="349"/>
-            <Width Value="96"/>
+            <Width Value="70"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1108,9 +1108,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="451"/>
-            <Width Value="52"/>
+            <Width Value="58"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -1164,13 +1164,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="17"/>
             <Top Value="638"/>
-            <Width Value="737"/>
+            <Width Value="715"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -1181,7 +1181,7 @@
           <Data>
             <Format Value="556"/>
             <FormatStr Value=""/>
-            <Memo Value="CÓDIGO             DESCRIÇAO                                                                                                                                   QTD.           UNITÁRIO           TOTAL&#xD;&#xA; &#xD;&#xA;"/>
+            <Memo Value="CÓDIGO             DESCRIÇAO                                                                                                                                   QTD.           UNITÁRIO       TOTAL&#xD;&#xA; &#xD;&#xA;"/>
             <Script Value=""/>
             <GapX Value="0"/>
             <GapY Value="0"/>
@@ -1220,13 +1220,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="391"/>
             <Top Value="157"/>
-            <Width Value="366"/>
+            <Width Value="340"/>
             <Height Value="13"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -1276,9 +1276,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="391"/>
             <Top Value="171"/>
-            <Width Value="80"/>
+            <Width Value="54"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1332,9 +1332,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="490"/>
+            <Left Value="503"/>
             <Top Value="171"/>
-            <Width Value="108"/>
+            <Width Value="82"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1388,9 +1388,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="600"/>
+            <Left Value="613"/>
             <Top Value="171"/>
-            <Width Value="144"/>
+            <Width Value="118"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1444,13 +1444,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="389"/>
             <Top Value="188"/>
-            <Width Value="368"/>
+            <Width Value="342"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -1500,9 +1500,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="391"/>
             <Top Value="204"/>
-            <Width Value="83"/>
+            <Width Value="57"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1556,9 +1556,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="600"/>
+            <Left Value="613"/>
             <Top Value="204"/>
-            <Width Value="144"/>
+            <Width Value="118"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1612,13 +1612,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="389"/>
             <Top Value="220"/>
-            <Width Value="368"/>
+            <Width Value="342"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -1668,9 +1668,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="391"/>
             <Top Value="236"/>
-            <Width Value="168"/>
+            <Width Value="142"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1724,9 +1724,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="550"/>
+            <Left Value="563"/>
             <Top Value="236"/>
-            <Width Value="192"/>
+            <Width Value="166"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1780,13 +1780,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="390"/>
             <Top Value="253"/>
-            <Width Value="367"/>
+            <Width Value="341"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -1836,9 +1836,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="378"/>
+            <Left Value="391"/>
             <Top Value="270"/>
-            <Width Value="360"/>
+            <Width Value="334"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1892,9 +1892,9 @@
           <Typ Value="gtPicture"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="4"/>
+            <Left Value="17"/>
             <Top Value="160"/>
-            <Width Value="256"/>
+            <Width Value="230"/>
             <Height Value="182"/>
           </Size>
           <Flags Value="5"/>
@@ -1926,13 +1926,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="368"/>
-            <Width Value="737"/>
+            <Width Value="711"/>
             <Height Value="14"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -1982,9 +1982,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="10"/>
+            <Left Value="23"/>
             <Top Value="383"/>
-            <Width Value="216"/>
+            <Width Value="190"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2038,9 +2038,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="229"/>
+            <Left Value="242"/>
             <Top Value="383"/>
-            <Width Value="136"/>
+            <Width Value="110"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2094,9 +2094,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="367"/>
+            <Left Value="380"/>
             <Top Value="383"/>
-            <Width Value="248"/>
+            <Width Value="222"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2150,9 +2150,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="615"/>
+            <Left Value="628"/>
             <Top Value="383"/>
-            <Width Value="132"/>
+            <Width Value="106"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2206,13 +2206,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="400"/>
-            <Width Value="737"/>
+            <Width Value="711"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -2262,9 +2262,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="10"/>
+            <Left Value="23"/>
             <Top Value="418"/>
-            <Width Value="264"/>
+            <Width Value="238"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2318,9 +2318,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="275"/>
+            <Left Value="288"/>
             <Top Value="418"/>
-            <Width Value="148"/>
+            <Width Value="122"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2374,9 +2374,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="425"/>
+            <Left Value="438"/>
             <Top Value="418"/>
-            <Width Value="188"/>
+            <Width Value="162"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2430,9 +2430,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="616"/>
+            <Left Value="629"/>
             <Top Value="418"/>
-            <Width Value="132"/>
+            <Width Value="92"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2486,13 +2486,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="470"/>
-            <Width Value="737"/>
+            <Width Value="711"/>
             <Height Value="14"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -2542,13 +2542,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="503"/>
-            <Width Value="737"/>
+            <Width Value="711"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -2598,9 +2598,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="8"/>
+            <Left Value="21"/>
             <Top Value="487"/>
-            <Width Value="224"/>
+            <Width Value="198"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2654,9 +2654,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="236"/>
+            <Left Value="249"/>
             <Top Value="487"/>
-            <Width Value="132"/>
+            <Width Value="106"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2710,9 +2710,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="372"/>
+            <Left Value="385"/>
             <Top Value="487"/>
-            <Width Value="238"/>
+            <Width Value="212"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2766,9 +2766,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="615"/>
+            <Left Value="628"/>
             <Top Value="487"/>
-            <Width Value="128"/>
+            <Width Value="102"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2822,9 +2822,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="204"/>
+            <Left Value="217"/>
             <Top Value="349"/>
-            <Width Value="388"/>
+            <Width Value="362"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -2878,9 +2878,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="8"/>
+            <Left Value="21"/>
             <Top Value="519"/>
-            <Width Value="266"/>
+            <Width Value="240"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2934,9 +2934,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="276"/>
+            <Left Value="289"/>
             <Top Value="519"/>
-            <Width Value="136"/>
+            <Width Value="110"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2990,9 +2990,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="414"/>
+            <Left Value="427"/>
             <Top Value="519"/>
-            <Width Value="200"/>
+            <Width Value="174"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -3046,9 +3046,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="616"/>
+            <Left Value="629"/>
             <Top Value="519"/>
-            <Width Value="148"/>
+            <Width Value="101"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -3102,13 +3102,13 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="537"/>
-            <Width Value="736"/>
+            <Width Value="710"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
-          <FillColor Value="clMenuBar"/>
+          <FillColor Value="clCream"/>
           <Frames>
             <FrameColor Value="clBlack"/>
             <FrameStyle Value="frsSolid"/>
@@ -3158,9 +3158,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="8"/>
+            <Left Value="21"/>
             <Top Value="553"/>
-            <Width Value="284"/>
+            <Width Value="258"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -3214,9 +3214,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="295"/>
+            <Left Value="308"/>
             <Top Value="553"/>
-            <Width Value="452"/>
+            <Width Value="426"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -3270,9 +3270,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="22"/>
             <Top Value="581"/>
-            <Width Value="104"/>
+            <Width Value="94"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -3326,7 +3326,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="9"/>
+            <Left Value="17"/>
             <Top Value="761"/>
             <Width Value="320"/>
             <Height Value="18"/>
@@ -3382,7 +3382,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="582"/>
+            <Left Value="574"/>
             <Top Value="978"/>
             <Width Value="156"/>
             <Height Value="13"/>
