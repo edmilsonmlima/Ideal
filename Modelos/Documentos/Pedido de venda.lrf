@@ -7,7 +7,7 @@
     <KeyWords Value=""/>
     <Comments Value=""/>
     <ReportCreateDate Value="2015-03-28 12:45:40"/>
-    <ReportLastChange Value="2025-02-10 16:05:39"/>
+    <ReportLastChange Value="2025-02-10 16:10:57"/>
     <ReportVersionBuild Value=""/>
     <ReportVersionMajor Value=""/>
     <ReportVersionMinor Value=""/>
@@ -804,7 +804,7 @@
           <Size>
             <Left Value="16"/>
             <Top Value="884"/>
-            <Width Value="74"/>
+            <Width Value="86"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -1054,7 +1054,7 @@
           <Size>
             <Left Value="22"/>
             <Top Value="349"/>
-            <Width Value="70"/>
+            <Width Value="102"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
@@ -3272,7 +3272,7 @@
           <Size>
             <Left Value="22"/>
             <Top Value="581"/>
-            <Width Value="94"/>
+            <Width Value="102"/>
             <Height Value="18"/>
           </Size>
           <Flags Value="3"/>
