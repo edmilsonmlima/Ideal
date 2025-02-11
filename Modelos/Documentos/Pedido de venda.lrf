@@ -7,7 +7,7 @@
     <KeyWords Value=""/>
     <Comments Value=""/>
     <ReportCreateDate Value="2015-03-28 12:45:40"/>
-    <ReportLastChange Value="2025-02-10 21:40:51"/>
+    <ReportLastChange Value="2025-02-11 09:00:10"/>
     <ReportVersionBuild Value=""/>
     <ReportVersionMajor Value=""/>
     <ReportVersionMinor Value=""/>
@@ -2180,7 +2180,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="249"/>
+            <Left Value="242"/>
             <Top Value="488"/>
             <Width Value="106"/>
             <Height Value="15"/>
@@ -2462,7 +2462,7 @@
           <Size>
             <Left Value="289"/>
             <Top Value="524"/>
-            <Width Value="110"/>
+            <Width Value="142"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -2516,9 +2516,9 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="427"/>
+            <Left Value="438"/>
             <Top Value="524"/>
-            <Width Value="174"/>
+            <Width Value="186"/>
             <Height Value="15"/>
           </Size>
           <Flags Value="3"/>
@@ -3580,7 +3580,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="600"/>
+            <Left Value="628"/>
             <Top Value="368"/>
             <Width Value="45"/>
             <Height Value="15"/>
@@ -3720,7 +3720,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="288"/>
+            <Left Value="289"/>
             <Top Value="406"/>
             <Width Value="52"/>
             <Height Value="12"/>
@@ -4140,7 +4140,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="249"/>
+            <Left Value="242"/>
             <Top Value="472"/>
             <Width Value="96"/>
             <Height Value="15"/>
@@ -4448,7 +4448,7 @@
           <Typ Value="gtMemo"/>
           <StreamMode Value="0"/>
           <Size>
-            <Left Value="427"/>
+            <Left Value="438"/>
             <Top Value="508"/>
             <Width Value="62"/>
             <Height Value="14"/>
